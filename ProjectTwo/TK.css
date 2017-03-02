@@ -1,33 +1,43 @@
-h1, h2, h3, h4 {
+#header {
 	font-family: 'Orbitron', sans-serif;
 	color: mediumvioletred;
 	font-weight: 600;
 }
 
-#navigating {
-	font-family: 'Orbitron', sans-serif;
-}
-
 #footer {
-	font-family: 'Lobster', sans-serif;
+	font-family: 'Boogaloo', cursive;
 }
 
-#introduction {
-	
+#Introduction, #bored {
+	font-family: 'Rammetto One', cursive;
+	color: midnightblue;
 }	
+
+#title {
+	font-family: 'Orbitron', sans-serif;
+	color: mediumvioletred;
+	font-weight: 800;
+	font-size: 40px;
+}
+
+#education, #workhistory, #information, #classes {
+	font-family: garamond, serif;
+	font-weight: 200;
+}
+
+#ul1, #ul2, #ul3, #ul4 {
+	font-size: 17px;
+}
+
+#edu, #wh, #PI, #RC{
+	font-size: 25px;
+	color: darkmagenta;
+}
 
 .floatRight {
 	float: right;
 }
 
-#youtubevidleague {
-
-}
-
-#information, #classes {
-	
-}
-
-#education, #workhistory {
-	
+#CH {
+	font-size: 20px;
 }
