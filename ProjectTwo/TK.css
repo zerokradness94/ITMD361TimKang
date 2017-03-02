@@ -22,7 +22,7 @@
 
 #education, #workhistory, #information, #classes {
 	font-family: garamond, serif;
-	font-weight: 200;
+	font-weight: 300;
 }
 
 #ul1, #ul2, #ul3, #ul4 {
@@ -40,4 +40,12 @@
 
 #CH {
 	font-size: 20px;
+}
+
+#history {
+	overflow:scroll;
+	width: 50em;
+	height: 20em;
+	font-family: lucida, serif;
+	margin: 20px 20px;
 }
