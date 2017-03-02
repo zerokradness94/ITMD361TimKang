@@ -13,6 +13,12 @@
 	color: midnightblue;
 }	
 
+#Introduction {
+	overflow:hidden;
+	width: 50em;
+	height: 15em;
+}
+
 #title {
 	font-family: 'Orbitron', sans-serif;
 	color: mediumvioletred;
@@ -48,5 +54,7 @@
 	height: 20em;
 	font-family: lucida, serif;
 	margin: 20px 20px;
+	border: solid;
+	background-color: white;
 }
 
