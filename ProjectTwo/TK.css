@@ -8,6 +8,14 @@ h1, h2, h3, h4 {
 	font-family: 'Orbitron', sans-serif;
 }
 
+#footer {
+	font-family: 'Lobster', sans-serif;
+}
+
+#introduction {
+	
+}	
+
 .floatRight {
 	float: right;
 }
@@ -16,10 +24,10 @@ h1, h2, h3, h4 {
 
 }
 
-#footer {
-	font-family: 'Lobster', sans-serif;
+#information, #classes {
+	
 }
 
-#introduction {
+#education, #workhistory {
 	
-}	
+}
