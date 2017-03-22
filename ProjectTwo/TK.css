@@ -9,6 +9,33 @@
 	color: white;
 }
 
+nav#navigating ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+nav#navigating ul li{
+	float: left;
+}	
+
+nav#navigating ul li a{
+	display: block;
+	padding: 20px;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	background-color: gray;
+}	
+
+nav#navigating ul li a:hover{
+	background-color: #ccc;
+	color: #000;
+}
+
 #Introduction, #bored {
 	font-family: 'Rammetto One', cursive;
 	color: white;
@@ -36,6 +63,7 @@
 #education, #workhistory, #information, #classes {
 	font-family: garamond, serif;
 	font-weight: 300;
+	color: white;
 }
 
 #ul1, #ul2, #ul3, #ul4 {
