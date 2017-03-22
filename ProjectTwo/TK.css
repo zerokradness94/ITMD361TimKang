@@ -470,7 +470,7 @@ template {
 
 #footer {
 	font-family: 'Boogaloo', cursive;
-	color: white;
+	color: #E4E4E6;
 	background-color: gray;
 }
 
@@ -489,7 +489,7 @@ nav#navigating ul li a{
 	display: block;
 	padding: 20px;
 	font-size: 20px;
-	color: white;
+	color: #E4E4E6;
 	text-decoration: none;
 	text-transform: uppercase;
 	font-weight: bold;
@@ -503,7 +503,7 @@ nav#navigating ul li a:hover{
 
 #Introduction, #bored {
 	font-family: 'Rammetto One', cursive;
-	color: white;
+	color: #E4E4E6;
 }	
 
 #Introduction{
@@ -528,7 +528,7 @@ nav#navigating ul li a:hover{
 #education, #workhistory, #information, #classes {
 	font-family: garamond, serif;
 	font-weight: 300;
-	color: white;
+	color: #E4E4E6;
 }
 
 #ul1, #ul2, #ul3, #ul4 {
