@@ -6,17 +6,24 @@
 
 #footer {
 	font-family: 'Boogaloo', cursive;
+	color: white;
 }
 
 #Introduction, #bored {
 	font-family: 'Rammetto One', cursive;
-	color: midnightblue;
+	color: white;
 }	
 
-#Introduction {
+#Introduction{
 	overflow:hidden;
-	width: 50em;
+	width: 40em;
 	height: 15em;
+}
+
+#bored{
+	overflow:hidden;
+	width: 30em;
+	height: 5em;
 }
 
 #iitclass, #prof, #h3llo, #leggocareer {
@@ -58,3 +65,12 @@
 	background-color: white;
 }
 
+body, html {
+	min-height:100%;
+}
+
+body {
+	background-image:url("backgroundPic.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
