@@ -73,11 +73,14 @@ nav#navigating ul li a:hover{
 
 #edu, #wh, #PI, #RC{
 	font-size: 25px;
-	color: darkmagenta;
+	color: mediumvioletred;
 }
 
-.floatRight {
-	float: right;
+.fixedIMG {
+	width: 400px;
+	position: fixed;
+	right: 0;
+	top: 80px;
 }
 
 #CH {
@@ -91,7 +94,7 @@ nav#navigating ul li a:hover{
 	font-family: lucida, serif;
 	margin: 20px 20px;
 	border: solid;
-	background-color: white;
+	background-color: #E4E4E6;
 }
 
 body, html {
