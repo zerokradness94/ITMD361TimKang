@@ -87,6 +87,10 @@ nav#navigating ul li a:hover{
 	font-size: 20px;
 }
 
+.ignvid {
+	color: #E4E4E6;
+}
+
 #history {
 	overflow:scroll;
 	width: 50em;
