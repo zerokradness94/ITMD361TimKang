@@ -582,3 +582,17 @@ body {
 	background-repeat:no-repeat;
 	background-size:cover;
 }
+
+#iitclass{
+	position: relative;
+	width: 700px;
+	top: 0px;	
+	left: 0px;
+}
+
+#information, #classes{
+	position: relative;
+	width: 400px;
+	top: 0px;	
+	left: 0px;
+}
