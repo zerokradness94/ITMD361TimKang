@@ -466,12 +466,17 @@ template {
 	font-family: 'Orbitron', sans-serif;
 	color: mediumvioletred;
 	font-weight: 600;
+	width: 100%;
 }
 
 #footer {
 	font-family: 'Boogaloo', cursive;
 	color: #E4E4E6;
 	background-color: gray;
+}
+
+nav#navigating {
+	width: 100%;
 }
 
 nav#navigating ul{
@@ -483,6 +488,7 @@ nav#navigating ul{
 
 nav#navigating ul li{
 	float: left;
+	width: 19%;
 }	
 
 nav#navigating ul li a{
@@ -508,14 +514,16 @@ nav#navigating ul li a:hover{
 
 #Introduction{
 	overflow:hidden;
-	width: 40em;
-	height: 15em;
+	width: 40%;
 }
 
 #bored{
 	overflow:hidden;
-	width: 30em;
-	height: 5em;
+	width: 30%;
+}
+
+#h3llo{
+	width:100%;
 }
 
 #iitclass, #prof, #h3llo, #leggocareer {
@@ -541,7 +549,7 @@ nav#navigating ul li a:hover{
 }
 
 .fixedIMG {
-	width: 30em;
+	width: 20em;
 	position: fixed;
 	right: 0;
 	top: 80px;
